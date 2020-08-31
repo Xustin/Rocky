@@ -1,9 +1,9 @@
 #!/usr/bin/python2
 #coding=utf-8
-#YOUSUF ALZADJALI THE OFFICAL ROGRAMMER 
+#JUSTIN IMRAN THE OFFICAL ROGRAMMER 
 #FBCLONING COMMMAD MAKER 
-#JD HACKER 
-#PAK ID CLONER (YOUSUF JD)
+#SG HACKER 
+#ID CLONER (JUSTIN IMRAN)
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
